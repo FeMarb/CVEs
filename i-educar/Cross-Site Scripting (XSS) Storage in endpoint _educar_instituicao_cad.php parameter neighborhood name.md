@@ -8,13 +8,13 @@ While editing the neighborhood input field, which can be accessed at _Cadastro> 
 ### PoC
 Firstly, the neighborhood field was changed and the payload `"><svg onload=alert(1)>` was inserted. 
 
-![neighrborhood pannel](armazenado_bairro_inst.png)
+![neighborhood pannel](../images/armazenado_bairro_inst.png)
 
-![payload storage on url](i-educar\armazenado_bairro_inst2.png)
+![payload storage on url](../images/armazenado_bairro_inst2.png)
 
 Secondly, once the user get back to the previous page the payload was triggered.
 
-![payload executed](i-educar\armazenado_bairro_inst1.png)
+![payload executed](../images/armazenado_bairro_inst1.png)
 
 Affected endpoint =>`/educar_instituicao_cad.php`
 Affected parameter => _neighborhood name_
@@ -35,6 +35,7 @@ Affected parameter => _neighborhood name_
 ### Discoverer
 
 ([Fernanda Martins](https://github.com/FeMarb/)) (founder)
+
 ([Natan Morette](https://br.linkedin.com/in/nmmorette/pt)) (coordinator)
 
 by [CVE-Hunters](https://github.com/Sec-Dojo-Cyber-House/cve-hunters) 
