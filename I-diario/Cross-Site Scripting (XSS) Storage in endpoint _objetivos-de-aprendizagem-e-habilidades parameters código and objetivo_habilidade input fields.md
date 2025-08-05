@@ -7,7 +7,7 @@ While editing the _código_ and _objetivo/habilidade_ input fields, which can be
 ### PoC
 Firstly, the _código_ and _objetivo/habilidade_ field was changed and the payload `"><img src=x onerror=alert('XSS-PoC')>`  was inserted. 
 
-![image](images\bncc_obj_pay1.png) 
+![image](../images/bncc_obj_pay1.png)
 
 ![image](../images/bncc_obj_pay.png)
 
