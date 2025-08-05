@@ -8,7 +8,7 @@ While editing the neighborhood input field, which can be accessed at _Cadastro> 
 ### PoC
 Firstly, the neighborhood field was changed and the payload `"><svg onload=alert(1)>` was inserted. 
 
-![neighborhood pannel](i-educar\armazenado_bairro_inst.png)
+![neighborhood pannel](armazenado_bairro_inst.png)
 
 ![payload storage on url](i-educar\armazenado_bairro_inst2.png)
 
