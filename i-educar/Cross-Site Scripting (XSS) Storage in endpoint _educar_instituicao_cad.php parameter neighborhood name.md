@@ -37,5 +37,4 @@ Affected parameter => _neighborhood name_
 ([Fernanda Martins](https://github.com/FeMarb/)) (founder)
 ([Natan Morette](https://br.linkedin.com/in/nmmorette/pt)) (coordinator)
 
-by [CVE-Hunters](https://github.com/Sec-Dojo-Cyber-House/cve-hunters)
-
+by [CVE-Hunters](https://github.com/Sec-Dojo-Cyber-House/cve-hunters) 
