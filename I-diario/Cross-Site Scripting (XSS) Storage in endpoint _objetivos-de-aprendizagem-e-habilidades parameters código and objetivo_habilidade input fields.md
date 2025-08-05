@@ -7,17 +7,17 @@ While editing the _código_ and _objetivo/habilidade_ input fields, which can be
 ### PoC
 Firstly, the _código_ and _objetivo/habilidade_ field was changed and the payload `"><img src=x onerror=alert('XSS-PoC')>`  was inserted. 
 
-![image](\images\bncc_obj_pay1.png) 
+![image](images\bncc_obj_pay1.png) 
 
-![image](idiario\bncc_obj_pay.png)
+![image](../images/bncc_obj_pay.png)
 
-![image](idiario\bncc_obj.png)
+![image](../images/bncc_obj.png)
 
-![image](idiario\bncc_obj_res1.png)
+![image](../images/bncc_obj_res1.png)
 
 Secondly, once the user access the [History](https://idiario.ieducar.com.br/objetivos-de-aprendizagem-e-habilidades/1402/historico) page the payload was triggered.
 
-![image](idiario\bncc_obj_res.png)
+![image](../images/bncc_obj_res.png)
 
 **Affected endpoint =>/objetivos-de-aprendizagem-e-habilidades**
 **Affected parameter => Código and Objetivo/Habilidade**
