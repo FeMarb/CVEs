@@ -36,6 +36,7 @@ Secondly, once the user access the [History](https://idiario.ieducar.com.br/obje
 ### Discoverer
 
 ([Fernanda Martins](https://github.com/FeMarb/)) (founder)
+
 ([Natan Morette](https://br.linkedin.com/in/nmmorette/pt)) (coordinator)
 
 by [CVE-Hunters](https://github.com/Sec-Dojo-Cyber-House/cve-hunters)

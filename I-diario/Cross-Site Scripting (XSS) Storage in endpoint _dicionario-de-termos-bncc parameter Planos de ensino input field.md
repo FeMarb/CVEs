@@ -10,12 +10,13 @@ While editing the Planos de ensino input field, which can be accessed at BNCC > 
 
 Firstly, the Planos de ensino field was changed and the payload `"><img src=x onerror=alert('XSS-PoC')>`  was inserted. 
 
-![bncc_dic](https://github.com/user-attachments/assets/098870a1-4863-4f10-acda-2c3e41e2c971)
+![bncc_dic](../images/bncc_dic.png)
 
 Secondly, once the user access the _Planos de ensino por disciplina_ and the _Planos de ensino por áreas do conhecimento_ pages the payload was triggered.
 
-![bncc_dic_res](https://github.com/user-attachments/assets/f46690c4-d202-4e03-972d-fe53810b47c9)
-![bncc_dic_res1](https://github.com/user-attachments/assets/3c266b47-f8cf-4dde-be01-6f9d4d83d4f5)
+![bncc_dic_res](../images/bncc_dic_res.png)
+
+![bncc_dic_res1](../images/bncc_dic_res1.png)
 
 **Affected endpoint =>/dicionario-de-termos-bncc
 Affected parameter => Planos de ensino**
@@ -34,6 +35,7 @@ Affected parameter => Planos de ensino**
 ### Discoverer
 
 ([Fernanda Martins](https://github.com/FeMarb/)) (founder)
+
 ([Natan Morette](https://br.linkedin.com/in/nmmorette/pt)) (coordinator)
 
 by [CVE-Hunters](https://github.com/Sec-Dojo-Cyber-House/cve-hunters)
